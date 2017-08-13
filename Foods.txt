@@ -1,0 +1,482 @@
+Foods
+Fruits
+pitaya
+tomato
+pineapple
+watermelon
+banana
+shaddock
+pomelo
+orange
+apple
+lemon
+cherry
+peach
+pear
+Chinesedate
+pitted date
+coconut
+strawberry
+raspberry
+blueberry
+blackberry
+grape
+sugar cane
+mango
+pawpaw
+papaya
+apricot
+nectarine
+persimmon
+pomegranate
+jackfruit
+areca nut
+bitter orange
+kiwi fruit or Chinese gooseberry
+cumquat
+flat peach
+litchi
+greengage
+haw
+honey peach
+musk melon
+plum
+waxberry red bayberry
+longan
+crab apple
+starfruit
+loquat
+tangerine
+wax-apple
+guava
+
+vegetable
+meat
+pumpkin
+cushaw
+Sweet corn
+beef
+pork
+mutton
+lamb
+chicken
+lettuce
+Chinese cabbage
+celery cabbage
+cabbage
+radish
+carrot
+leek
+agarics
+pea
+potato
+cucumber
+balsam pear
+okra
+onion
+celery
+celery sticks
+sweet potato
+mushroom
+olive
+spinach
+wax gourd
+lotus root
+laver
+cole rape
+eggplant
+caraway
+loquat
+green pepper
+garden bean
+silvery fungi
+tendon
+pork joint
+fennel
+fennel oil
+carp
+bacon
+needle mushroom
+lentil
+areca
+great burdock
+summer radish
+bamboo shoot
+Chinese mugwort
+mung bean
+green soy bean
+lean meat
+speck
+day lily
+bean sprout
+towel gourd
+
+sea food
+Peeled Prawns
+lobster
+crayfish
+crab
+crab claws
+shrimp
+prawn
+toast squid
+sea cucumber
+scallop
+sea-ear
+abalone
+cockles
+oyster
+scale
+jellyfish
+turtle
+clam
+culter
+butterfish
+shrimp egg
+chub silver carp
+yellow croaker
+
+seasonings
+vinegar
+soy
+salt
+iodised salt
+sugar
+refined sugar
+soy sauce
+salad
+hot red pepper
+black pepper
+wild pepper
+Chinese prickly ash powder
+salad oil
+fixing sauce seasoning
+granulated sugar
+brown sugar
+Rock Sugar
+Sesame
+Sesame paste
+Sesame oil
+curry
+ketchup
+redeye
+horseradish
+shallot
+ginger
+garlic
+cooking wine
+oyster sauce
+medlar
+aniseed
+yeast barm
+Yellow pepper
+cinnamon
+butter
+vanilla extract
+flour
+onion
+
+staple food
+sandwich
+rice
+congee
+soup
+dumpling
+noodle
+pizza
+instant noodle
+sausage
+bread
+butter
+Tea eggs
+rape
+cookies
+pickle
+steamed bread
+cake
+hamburger
+ham
+cheese
+wonton skin
+Strong flour
+wheat
+barley
+highland barley
+broomcorn
+Spring rolls
+Taro
+yam
+shark fin
+daylily
+preserved eggs
+spring roll
+minced pie
+Brown rice
+corn
+stuffing
+appetizer
+flour
+oat
+sweet potato
+steak
+fillet
+bean jelly
+sticky rice
+bird's nest
+Chinese corn
+meat balls
+citrange
+dim sum
+starch
+egg tart
+Cashew nuts
+peanut
+fig
+filbert hazel
+chestnut
+walnut
+almond
+preserved fruit
+taro
+raisin cordial
+pistachio
+brazil nut
+water chestnut
+
+beverage
+red wine
+white wine
+brandy
+sherry
+soda
+sparkling water
+juice
+Ice-lolly
+beer
+yoghurt
+vodka
+cocktail
+soy milk
+soybean milk
+7 UP
+kirin
+cold boiled water
+Hans beer
+concentrated juice
+iced beer
+Sapporo
+ale
+grand A milk
+bantu beer
+dry sark
+blue milk
+bancha
+draft beer
+white beer
+barley-bree
+coffee mate
+
+snack
+mint
+cracker
+biscuit
+bonbon
+tea
+prune candied plum
+rice crust
+melon seed
+ice cream 
+preservative
+sundae
+marble chocolate barley
+pudding
+
+chinese
+Clay oven rolls
+Fried bread stick
+Fried leek dumplings   
+Boiled dumplings
+Steamed dumplings
+Steamed buns
+Steamed sandwich
+Rice and vegetable roll
+Egg cakes
+Salted duck egg
+Soybean milk
+bear's paw 
+beche-de-mer sea cucumber
+sea sturgeon
+salted jelly fish
+kelp,seaweed
+abalone
+shark fin
+scallops
+lobster
+bird's nest
+roast suckling pig
+pig's knuckle
+boiled salted duck
+preserved meat
+barbecued pork
+sausage
+fried pork flakes
+BAR-B-Q
+meat diet
+vegetables
+meat broth
+local dish
+Cantonese cuisine
+set meal
+curry rice
+fried rice
+plain rice
+crispy rice
+gruel soft rice
+porridge
+noodles with gravy
+plain noodle
+casserole
+chafing dish
+fire pot
+meat bun
+shao-mai
+preserved bean curd
+bean curd
+fermented blank bean
+pickled cucumbers
+preserved egg
+salted duck egg
+dried turnip
+Wonton & noodles
+Sliced noodles
+Spicy hot noodles
+Sesame paste noodles
+Duck with noodles
+Eel noodles
+Seafood noodles
+Pork
+pickled mustard green noodles
+Oyster thin noodles
+Flat noodles
+Rice noodles
+Fried rice noodles
+Glutinous rice
+
+west
+menu
+French cuisine
+today's special
+chef's special
+buffet
+fast food
+specialty
+continental cuisine
+aperitif
+dim sum
+French fires
+baked potato
+mashed potatoes
+omelette
+pudding
+pastries
+pickled vegetables
+kimchi
+crab meat
+prawn
+conch
+escargots
+braised beef
+bacon
+poached egg
+sunny side up over
+fried egg 
+over easy
+over hard
+scramble eggs
+boiled egg
+stone fire pot
+sashi
+Rib’s Eye
+T-Bone
+Tenderloin
+Filet
+Sirloin
+Round
+sake
+Medium Rare
+Blue rare
+well-done
+very rare
+miso shiru
+roast meat
+sashimi
+butter
+
+Soup
+Fish ball soup
+Meat ball soup
+Egg & vegetable soup
+Clams soup
+Oyster soup
+Seaweed soup
+Sweet & sour soup
+Wonton soup
+Pork intestine soup
+Pork thick soup
+Squid soup
+Squid thick soup
+
+safety
+Bacteria
+Calibration
+Chemicals
+Control
+Measures
+Corrective
+Detergent
+grease
+dirt
+washing-up liquid
+Disinfectant
+Employee
+dishwashing 
+Illness
+infections
+intoxications
+Outbreak
+poisoning
+Preparation
+HACCP
+Hazard
+Kitchenware
+utensils
+pots
+pans
+Pathogen
+agent
+microorganism
+germ
+disease
+Perishable
+Temperatures
+Sanitizer
+cups
+containers
+closures
+plates
+straws
+place mats
+napkins
+doilies
+spoons
+stirrers
+paddles
+knives
+forks
+wrapping materials
+Tableware
+ladles
+containers
+Viruses
+insect
+bugs
